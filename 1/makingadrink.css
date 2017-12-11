@@ -1,0 +1,46 @@
+* {
+  font-family: "Helvetica", sans-serif;
+  background-color: hsla(50, 30%, 95%, 1);
+}
+
+#header {
+  font-weight: bold;
+  font-size: 3rem;
+  padding-bottom: 5vw;
+}
+
+body {
+  padding: 5vw;
+}
+
+.ital {
+  font-style: italic;
+}
+
+.subject {
+  font-weight: bold;
+  color: hsla(340, 80%, 40%, 1);
+  font-size: 1.75rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.technique {
+  display: block;
+  line-height: 1.4rem;
+  max-width: 45rem;
+  margin-left: 10vw;
+  padding: 1rem;
+}
+
+.title {
+  color: hsla(340, 80%, 40%, 1);
+  font-variant: small-caps;
+  display: inline;
+  font-size: 1.25rem;
+}
+
+.description {
+  display: inline;
+  font-size: 1.25rem;
+}
